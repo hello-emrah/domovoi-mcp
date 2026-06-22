@@ -1,0 +1,16 @@
+{
+  "name": "domovoi-mcp",
+  "version": "0.1.0",
+  "description": "Domovoi: the house daemon for your Mac. An MCP server for native macOS surfaces. v1 covers iMessage (read and send) and Contacts, modular so Notes, Reminders, Notifications and more slot in later.",
+  "type": "module",
+  "main": "index.js",
+  "bin": { "domovoi-mcp": "./index.js" },
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/hello-emrah/domovoi-mcp.git" },
+  "keywords": ["mcp", "macos", "domovoi", "imessage", "messages", "contacts", "applescript", "claude"]
+}
