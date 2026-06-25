@@ -65,6 +65,16 @@ No environment variables, no keys. Access is governed entirely by the macOS perm
 - All reads are read only against copies of Apple's stores; the server never writes to them.
 - Modular by design. Each surface is its own file under `src/`; new ones (notes, reminders, notifications, shortcuts, system info) register in `index.js` without touching the rest.
 
+## Why "Domovoi"
+
+The domovoi is the Slavic house spirit, the guardian that lives in the home and keeps it running: fed, respected, tending the hearth out of sight while the household sleeps. It is the same idea the word daemon carries in computing, the quiet process that keeps a machine in order without ever asking for attention. This one tends your Mac.
+
+## Design philosophy
+
+The visual mark and the tool itself were built deliberately against the visual language of capitalist software design. No gradients, no neon, no glass, no drop shadows, no isometric stock illustration. Single-shade flat seals in warm, considered colours, ancient-glyph silhouettes, generous whitespace. The mark could be pressed into wax or carved into stone.
+
+This tool is built for personal use and shared openly. It is not productised, monetised, or instrumented. Use it for your own work or fork it for yours.
+
 ## License
 
 MIT.
