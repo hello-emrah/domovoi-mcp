@@ -8,6 +8,8 @@
 
 The domovoi is the Slavic hearth spirit that lives in the home and keeps it running. This one tends your machine: iMessage and Contacts today, Notes, Reminders, Notifications and more as they land.
 
+<br/>
+
 <a href="https://www.buymeacoffee.com/hello_emrah"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=hello_emrah&button_colour=E3A52C&font_colour=3a2a10&coffee_colour=3a2a10&outline_colour=3a2a10&font_family=Inter" alt="Buy me a coffee" height="44" /></a>
 
 </div>
